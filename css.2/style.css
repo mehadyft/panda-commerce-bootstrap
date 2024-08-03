@@ -1,0 +1,21 @@
+.information-bg {
+  background-color: #fceae8 !important;
+}
+.categories img {
+  width: 100px;
+}
+.btn-color {
+  background-image: linear-gradient(#ff589b 0%, #ff136f 100%);
+}
+.watch {
+  background-color: orange;
+}
+.bag {
+  background-color: orchid;
+}
+.shoes {
+  background-color: blue;
+}
+.ra {
+  margin-top: 60px;
+}
